@@ -34,7 +34,7 @@ function App() {
             ]
           }}
           actionsConfiguration={{
-              twaReturnUrl: 'https://t.me/DemoDappWithTonConnectBot/demo-with-wallet'
+              twaReturnUrl: 'https://t.me/levi_demobot/myapp'
           }}
       >
         <div className="app">
